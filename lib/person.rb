@@ -1,6 +1,6 @@
 class Person
   
-  attr_accessor :name, :birthday, 
+  attr_accessor :name, :birthday
   
   
  def initialize(attributes)
